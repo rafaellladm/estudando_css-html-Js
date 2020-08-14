@@ -98,6 +98,7 @@ header {
 
 .card__image-container img {
     width: 100%;
+    cursor: pointer;
 }
 
 .card__content,
